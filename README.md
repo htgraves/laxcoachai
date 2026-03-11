@@ -64,3 +64,11 @@ I designed and built key parts of the system including:
 - video processing workflow
 - cloud storage integration
 - end-to-end system debugging and iteration
+
+## Code Availability
+
+The full source code for LaxCoach AI is currently private as the project is under active development.
+
+The system consists of a Flutter mobile application and a Python backend that performs computer vision–based biomechanics analysis.
+
+If you are interested in discussing the implementation details, I’m happy to walk through the architecture and technical approach.
